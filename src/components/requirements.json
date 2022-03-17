@@ -1,0 +1,298 @@
+[
+  {
+    "Rice": [
+      {
+        "moisture": [
+          {
+            "min": 900,
+            "max": 2500
+          }
+        ],
+        "ph": [
+          {
+            "min": 5,
+            "max": 5.1
+          }
+        ],
+        "harvest": [
+          {
+            "min": 90,
+            "max": 110
+          }
+        ],
+        "height": [
+          {
+            "min": 100,
+            "max": 300
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 37
+          }
+        ],
+        "location": ["Dehradun", "Haridwar", "Nainital"]
+      }
+    ],
+    "Wheat": [
+      {
+        "moisture": [
+          {
+            "min": 450,
+            "max": 650
+          }
+        ],
+        "ph": [
+          {
+            "min": 6.0,
+            "max": 7.0
+          }
+        ],
+        "harvest": [
+          {
+            "min": 120,
+            "max": 150
+          }
+        ],
+        "height": [
+          {
+            "min": 120,
+            "max": 300
+          }
+        ],
+        "temperature": [
+          {
+            "min": 10,
+            "max": 25
+          }
+        ],
+
+        "location": ["Udham Singh Nagar", "Nainital", "Haridwar"]
+      }
+    ],
+
+    "Maize": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ],
+    
+    "Apple": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ],
+    "Litchi": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ],
+
+    "Plum": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ],
+
+    "Soya Bean": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ],
+
+    "Sugar Cane": [
+      {
+        "moisture": [
+          {
+            "min": 500,
+            "max": 800
+          }
+        ],
+        "ph": [
+          {
+            "min": 5.5,
+            "max": 7.5
+          }
+        ],
+        "harvest": [
+          {
+            "min": 80,
+            "max": 120
+          }
+        ],
+        "height": [
+          {
+            "min": 270,
+            "max": 500
+          }
+        ],
+        "temperature": [
+          {
+            "min": 21,
+            "max": 27
+          }
+        ],
+
+        "location": ["Jaunsar", "Dehradun"]
+      }
+    ]
+
+
+  }
+]

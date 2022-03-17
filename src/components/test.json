@@ -1,0 +1,183 @@
+[
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "9",
+    "height": "127",
+    "plantfamily": "21",
+    "moisture": 4000,
+
+    "temperature": "45",
+    "location": "Dehradun"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "9992012",
+    "ph": "7",
+    "height": "77",
+    "plantfamily": "21",
+    "moisture": 1800,
+    "temperature": "25",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "5.1",
+    "height": "177",
+    "plantfamily": "21",
+    "moisture": "78",
+    "temperature": "21",
+    "location": "Nainital"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "5.3",
+    "height": "77",
+    "plantfamily": "21",
+    "moisture": "1780",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "4",
+    "height": "137",
+    "plantfamily": "21",
+    "moisture": "780",
+    "temperature": "45",
+    "location": "Nainital"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "5",
+    "height": "57",
+    "plantfamily": "21",
+    "moisture": "7800",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Rice",
+    "cropid": "999202",
+    "ph": "7",
+    "height": "86",
+    "plantfamily": "21",
+    "moisture": "1178",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "89",
+    "plantfamily": "21",
+    "moisture": "78",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "57",
+    "height": "74",
+    "plantfamily": "58",
+    "moisture": "80",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "89",
+    "height": "97",
+    "plantfamily": "22",
+    "moisture": "29",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "83",
+    "height": "70",
+    "plantfamily": "29",
+    "moisture": "45",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Wheat",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Maize",
+    "cropid": "999202",
+    "ph": "79",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Maize",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Maize",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Maize",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "30",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  },
+  {
+    "cropname": "Maize",
+    "cropid": "999202",
+    "ph": "77",
+    "height": "98",
+    "plantfamily": "60",
+    "moisture": "65",
+    "temperature": "45",
+    "location": "jkl"
+  }
+]

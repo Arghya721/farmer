@@ -90,10 +90,10 @@ app.get("/login",(req,res)=>{
 });
 
 var connection = mysql.createConnection({
-    host               : "192.46.211.70",
-    user               : "anonpein_adminx",
-    password           : "26NpA119q8it",
-    database           : "anonpein_fm",
+    host               : process.env.HOST,
+    user               : process.env.USER,
+    password           : process.env.PASSWORD,
+    database           : process.env.DATABASE,
     multipleStatements : true
 });
 connection.connect(function(err) {
